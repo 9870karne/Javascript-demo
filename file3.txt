@@ -1,1 +1,3 @@
 Git file three.
+
+Modify message: One more line would be added.
